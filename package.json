@@ -1,0 +1,22 @@
+{
+  "name": "js-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaLai/JS-Connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaLai/JS-Connect/issues"
+  },
+  "homepage": "https://github.com/AaLai/JS-Connect#readme",
+  "dependencies": {
+    "pg": "^7.6.1"
+  }
+}
